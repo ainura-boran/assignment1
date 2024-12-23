@@ -1,4 +1,4 @@
-public class Teacher {
+public class Teacher extends Person {
     private String subject;
     private int yearsOfExperience;
     private int salary;
