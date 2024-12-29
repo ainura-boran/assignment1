@@ -1,0 +1,5 @@
+Ainur Boranova 17 false 65 69 78 96 84
+Margulan Mubin 21 true 85 86 96 78 79
+Didar Rakymzhankyzy 19 false 98 96 89 81 80
+Ulzere Boranova 23 false 100 84 97 73 82
+Erzhan Narimanov 24 true 84 86 82 80 87

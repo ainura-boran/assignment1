@@ -6,7 +6,7 @@ public class Main {
     public static void main(String[] args) throws Exception {
         ArrayList<Person> members = new ArrayList<>();
 
-        File studentFile = new File("C:\\Users\\boran\\OneDrive\\Рабочий стол\\students2.txt");
+        File studentFile = new File("src/students.txt");
         Scanner studentScanner = new Scanner(studentFile);
 
         while (studentScanner.hasNextLine()) {
@@ -29,7 +29,7 @@ public class Main {
         }
         studentScanner.close();
 
-        File teacherFile = new File("C:\\Users\\boran\\OneDrive\\Рабочий стол\\teachers.txt");
+        File teacherFile = new File("src/teachers.txt");
         Scanner teacherScanner = new Scanner(teacherFile);
 
         while (teacherScanner.hasNextLine()) {
